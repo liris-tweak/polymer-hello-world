@@ -1,0 +1,25 @@
+.{
+  "name": "polymer-hello-world",
+  "version": "0.0.0",
+  "homepage": "https://github.com/StatelessCat/polymer-hello-world",
+  "authors": [
+    "Raphael Cazenave-Leveque <raphael.cazenave@gmail.com>"
+  ],
+  "description": "polymer-hello-world",
+  "keywords": [
+    "polymer",
+    "webcomponents",
+    "javascript"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
