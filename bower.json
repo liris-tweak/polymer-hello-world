@@ -1,6 +1,6 @@
 .{
   "name": "polymer-hello-world",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/StatelessCat/polymer-hello-world",
   "authors": [
     "Raphael Cazenave-Leveque <raphael.cazenave@gmail.com>"
