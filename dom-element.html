@@ -5,6 +5,10 @@
   <template>
     <!-- Shadow DOM subtree -->
     <p>I'm inside the shadow DOM, it's dark here !</p>
+    <!-- Shadow DOM subtree -->
+    <span>(shadow DOM)The following element is from the light DOM: </span>
+      <content select="q"></content>
+    <footer>(shadow DOM)Did you see it ?</footer>
   </template>
 
   <script>
