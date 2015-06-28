@@ -10,3 +10,4 @@ polymer-hello-world
 
 ## run the demo
 `grunt connect`
+Then open `localhost:8000/demo` in your favorite web browser
