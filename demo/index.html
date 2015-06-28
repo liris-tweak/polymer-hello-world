@@ -6,11 +6,9 @@
       window.Polymer = window.Polymer || {};
       window.Polymer.dom = 'shadow'; // enabling usage of shadow dom on browser that supports it
     </script>
-    <link rel="import" href="proto-element.html">
-    <link rel="import" href="dom-element.html">
+    <link rel="import" href="../src/dom-element.html"/>
   </head>
   <body>
-    <proto-element></proto-element>
     <dom-element>
       <q>(light DOM)I'm in the light DOM</q> <!-- part of my-custom-element's light DOM -->
     </dom-element>
