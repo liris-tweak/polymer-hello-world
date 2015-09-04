@@ -1,9 +1,10 @@
 {
   "name": "polymer-hello-world",
   "version": "0.0.1",
-  "homepage": "https://github.com/StatelessCat/polymer-hello-world",
+  "homepage": "https://github.com/liris-tweak/polymer-hello-world",
   "authors": [
-    "Raphael Cazenave-Leveque <raphael.cazenave@gmail.com>"
+    "Raphael Cazenave-Leveque <raphael.cazenave@gmail.com>",
+    "Derbel Fatma <derbelfatma@gmail.com"
   ],
   "description": "polymer-hello-world",
   "keywords": [
@@ -20,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0"
+    "taabs" : "https://github.com/liris-tweak/taaabs.git#ad663711cd4faf5cf97a38c9ae8fb7e47e1cbcb8"
   }
 }
